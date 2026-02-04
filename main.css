@@ -9,7 +9,6 @@
 
 /* ============================================
    BODY - Main page layout using CSS Grid
-   (Layout: 10 points)
    ============================================ */
 body {
     display: grid;
@@ -22,7 +21,6 @@ body {
 
 /* ============================================
    HEADER - Store name left, nav links right
-   (Header: 10 points)
    ============================================ */
 header {
     display: flex;
@@ -57,7 +55,6 @@ header nav a:hover {
 
 /* ============================================
    FOOTER - Copyright centered
-   (Footer: 10 points)
    ============================================ */
 footer {
     display: flex;
@@ -70,7 +67,6 @@ footer {
 
 /* ============================================
    MAIN - Product grid container
-   (Main: 25 points)
    ============================================ */
 main {
     display: flex;
@@ -84,7 +80,6 @@ main {
 
 /* ============================================
    STORE ITEM CARDS
-   (store-item: 20 points)
    ============================================ */
 .store-item {
     width: calc(25% - 2rem);
